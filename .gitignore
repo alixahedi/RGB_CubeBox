@@ -1,0 +1,10 @@
+Debug
+Release
+.vs
+.vscode
+.idea
+cmake-build-debug
+.step
+.PrjPcbStructure
+Project Logs for PCB_Project
+Historys
